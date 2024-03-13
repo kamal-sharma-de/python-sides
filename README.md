@@ -11,3 +11,5 @@ Problem 4: Develop a Python program to streamline task management, alleviating d
 Problem 5: Develop a Python program for tracking expenses, enabling users to efficiently manage their finances by adding, viewing, and categorizing expenses.
 
 Problem 6: Given customer purchase data, write a Python program to identify distinct customer segments based on spending patterns and recommend products tailored to their preferences.
+
+Problem 7: Develop a Python program to evaluate postfix expressions using a stack (deque) and handle errors due to unbalanced parentheses or insufficient operands.
