@@ -15,3 +15,5 @@ Problem 6: Given customer purchase data, write a Python program to identify dist
 Problem 7: Develop a Python program to evaluate postfix expressions using a stack (deque) and handle errors due to unbalanced parentheses or insufficient operands.
 
 Problem 8: Write a python program to implement DFS traversal on a graph and print the visited nodes.
+
+Problem 9: Write a python program to implement merge sort in Python to sort a list of data in ascending order.
