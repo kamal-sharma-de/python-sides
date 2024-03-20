@@ -19,3 +19,5 @@ Problem 8: Write a python program to implement DFS traversal on a graph and prin
 Problem 9: Write a python program to implement merge sort in Python to sort a list of data in ascending order.
 
 Problem 10: Given a connected, weighted graph, find the shortest path between a starting node and all other reachable nodes using Dijkstra's algorithm.
+
+Problem 11: Write a python code to compare the performance of Bubble Sort and Merge Sort on a complex dataset containing nested lists with mixed data types. 
