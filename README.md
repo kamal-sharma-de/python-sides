@@ -21,3 +21,5 @@ Problem 9: Write a python program to implement merge sort in Python to sort a li
 Problem 10: Given a connected, weighted graph, find the shortest path between a starting node and all other reachable nodes using Dijkstra's algorithm.
 
 Problem 11: Write a python code to compare the performance of Bubble Sort and Merge Sort on a complex dataset containing nested lists with mixed data types. 
+
+Problem 12: Given a string, find the longest substring that reads the same backward as forward (LongestPalindrome.py).
