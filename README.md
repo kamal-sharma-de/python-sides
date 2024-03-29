@@ -23,3 +23,5 @@ Problem 10: Given a connected, weighted graph, find the shortest path between a 
 Problem 11: Write a python code to compare the performance of Bubble Sort and Merge Sort on a complex dataset containing nested lists with mixed data types. 
 
 Problem 12: Given a string, find the longest substring that reads the same backward as forward (LongestPalindrome.py).
+
+Problem 13: Design a function that efficiently picks a random integer (with equal probability) from a range considering a provided blacklist of integers. (Pick.py)
