@@ -25,3 +25,5 @@ Problem 11: Write a python code to compare the performance of Bubble Sort and Me
 Problem 12: Given a string, find the longest substring that reads the same backward as forward (LongestPalindrome.py).
 
 Problem 13: Design a function that efficiently picks a random integer (with equal probability) from a range considering a provided blacklist of integers. (Pick.py)
+
+Problem 14: Write a Python function that converts an ASCII string to a space-separated, lowercase hexadecimal string representation of each character's value. (ASCIItoHex.py)
