@@ -35,3 +35,5 @@ Problem 16: Write a python code to find the shortest word ladder from beginWord 
 Problem 17: Write a python code to find the largest prime factor of a number. (LargestPrimeFactor.py)
 
 Problem 18: Develop a Python function to compare and analyze the properties (mutability, ordering, duplicates, membership testing) of different data structures (lists, tuples, sets) provided as input. (ListTupleSetComparison.py)
+
+Problem 19: Develop a Python function to explore and demonstrate key functionalities of dictionaries, including accessing, modifying, adding, removing elements, checking key existence, looping, and merging with another dictionary. (ExploreDictionaries.py)
