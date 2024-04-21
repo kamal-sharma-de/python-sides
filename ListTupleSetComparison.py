@@ -33,7 +33,7 @@ def compare_data_structures(data):
     results["mutability"] = "Immutable"
 
   # Ordering (is the order of elements preserved?)
-  results["ordering"] = sorted(data_copy) == data_copy  # Check if order is preserved after sorting
+  results["ordering"] = data_type in ["List", "Tuple"]  # Only lists and tuples preserve order
 
   # Duplicates (can elements appear multiple times?)
   results["duplicates"] = len(set(data_copy)) != len(data_copy)  # Check if length changes after converting to set (removing duplicates)
